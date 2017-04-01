@@ -1,0 +1,16 @@
+E-70:user_login
+E-71:user_modify_password_and_logout
+E-72:reset_password
+E-73:modify_personal_information
+E-112:create_administrator
+E-79:create_student
+E-85:create_teacher
+E-87:delete_teacher
+E-89:disable_enable_teacher
+E-82:reset_student_password
+E-83:modify_the_students_information
+E-88:modify_the_teachers_information
+E-112:create_administrator
+E-79:create_student
+E-85:create_teacher
+E-73:modify_personal_information
